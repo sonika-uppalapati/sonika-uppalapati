@@ -1,5 +1,6 @@
 <h1 align="center">👋 World!!!, I'm Sonika</h1>
 <h3 align="center">A passionate Developer and aspiring to become a data scientist.</h3>
+<h3 align="center">SELECT * FROM people WHERE 'someone' LIKE 'coding'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonika-m&label=Profile%20views&color=0e75b6&style=flat" alt="sonika-m" /> </p>
 
