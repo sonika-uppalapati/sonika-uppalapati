@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sonika</h1>
+<h1 align="center">👋 World!!!, I'm Sonika</h1>
 <h3 align="center">A passionate Developer and aspiring to become a data scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonika-m&label=Profile%20views&color=0e75b6&style=flat" alt="sonika-m" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonika-m" alt="sonika-m" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sonika_02" target="blank"><img src="https://img.shields.io/twitter/follow/sonika_02?logo=twitter&style=for-the-badge" alt="sonika_02" /></a> </p>
 
 - 🔭 I’m currently working on **Personal project**
 
@@ -18,6 +14,8 @@
 - 💬 Ask me about **Front End Development**
 
 - 📫 How to reach me **sonika.madhanagopal@gmail.com**
+
+- ⚡ Fun fact **don't make your life funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
