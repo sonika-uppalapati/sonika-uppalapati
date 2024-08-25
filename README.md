@@ -1,4 +1,4 @@
-<h1 align="center">👋 World!!!, I'm Sonika</h1>
+<h1 align="center">👋 World!!!, I'm Sonika Uppalapati</h1>
 <h3 align="center">A passionate and aspiring to become a Data Analyst.</h3>
 <h3 align="center">SELECT * FROM people WHERE 'someone' LIKE 'coding'</h3>
 
@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on **Personal project**
 
-- 🌱 I’m currently learning **Python, Stats, Power BI, Front End development**
+- 🌱 I’m currently learning **Data Analytics, Business Analytics**
 
 - 👯 I’m looking to collaborate on **learning new stuff**
 
 - 🤝 I’m looking for help with **learning technologies**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Front End Development, Data Analytics**
 
-- 📫 How to reach me **sonika.madhanagopal@gmail.com**
+- 📫 How to reach me **sonika.uppalapati@gmail.com**
 
 - ⚡ Fun fact **don't make your life funny**
 
