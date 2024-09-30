@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Power BI, Tableau, Python, SQL, Excel, PL-300 and ECBA**
+- 🌱 I’m currently learning **Power BI, Tableau, Python, SQL, Excel, PL-300, and ECBA**
 
-- 👯 I’m looking to collaborate on **Portfolio Project**
+- 👯 I’m looking to collaborate on **to enhance analytical skill**
 
-- 🤝 I’m looking for help with **Data Analytics Project**
+- 🤝 I’m looking for help with **analysing use cases**
 
-- 👨‍💻 All of my projects repo are available at [https://github.com/sonika-uppalapati?tab=repositories](https://github.com/sonika-uppalapati?tab=repositories)
+- 👨‍💻 All of my project repo are available at [https://github.com/sonika-uppalapati?tab=repositories](https://github.com/sonika-uppalapati?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sonika-uppalapati/](https://www.linkedin.com/in/sonika-uppalapati/)
 
 - 💬 Ask me about **Front End Development, Data Analytics**
 
-- 📫 How to reach me **sonika.uppalapati@gmail.com**
+- 📫 How to reach me **IG - @sonika_uppalapati**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fDz2wCjWIDV8PcWWf19FqJyaG9CKwxp-/view?usp=sharing](https://drive.google.com/file/d/1fDz2wCjWIDV8PcWWf19FqJyaG9CKwxp-/view?usp=sharing)
 
